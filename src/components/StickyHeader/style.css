@@ -5,7 +5,10 @@
     float: right;
 }
 
-.navbar-text > p {
+.scores {
+    width: 85%;
+}
+
+.scores > p {
     float: right;
-    text-align: center
 }
