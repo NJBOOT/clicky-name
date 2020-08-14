@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clicky-game/static/css/main.21002743.chunk.css",
-    "main.js": "/clicky-game/static/js/main.3da6f753.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.3da6f753.chunk.js.map",
+    "main.js": "/clicky-game/static/js/main.646365d1.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.646365d1.chunk.js.map",
     "runtime-main.js": "/clicky-game/static/js/runtime-main.2c299f57.js",
     "runtime-main.js.map": "/clicky-game/static/js/runtime-main.2c299f57.js.map",
-    "static/js/2.11f40f6e.chunk.js": "/clicky-game/static/js/2.11f40f6e.chunk.js",
-    "static/js/2.11f40f6e.chunk.js.map": "/clicky-game/static/js/2.11f40f6e.chunk.js.map",
+    "static/js/2.70d73b90.chunk.js": "/clicky-game/static/js/2.70d73b90.chunk.js",
+    "static/js/2.70d73b90.chunk.js.map": "/clicky-game/static/js/2.70d73b90.chunk.js.map",
     "index.html": "/clicky-game/index.html",
-    "precache-manifest.131bb68bf655ece18b9f25c849e17281.js": "/clicky-game/precache-manifest.131bb68bf655ece18b9f25c849e17281.js",
+    "precache-manifest.12f962b04ed9aad6f56eb5d280f5fe2d.js": "/clicky-game/precache-manifest.12f962b04ed9aad6f56eb5d280f5fe2d.js",
     "service-worker.js": "/clicky-game/service-worker.js",
     "static/css/main.21002743.chunk.css.map": "/clicky-game/static/css/main.21002743.chunk.css.map"
   }
