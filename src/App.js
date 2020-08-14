@@ -15,14 +15,14 @@ class App extends Component {
     gameOver: false,
   };
 
-  shuffleArray = (array) => {
+  shuffleArray = array => {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [array[i], array[j]] = [array[j], array[i]];
     }
   };
 
-  clickCard = (id) => {
+  clickCard = id => {
     if (!this.state.clicked.includes(id)) {
       // let clickedArray = this.state.clicked.push(id)
       let clickedArray = [...this.state.clicked, id];
@@ -72,7 +72,7 @@ class App extends Component {
         <Header />
         <div className="container">
           <div className="img-container">
-            {this.state.cards.map((friend) => (
+            {this.state.cards.map(friend => (
               <Card
                 id={friend.id}
                 key={friend.id}
