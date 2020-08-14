@@ -4,7 +4,7 @@ import Card from "./components/Card/Card";
 import Wrapper from "./components/Wrapper/Wrapper";
 import Header from "./components/Header/Header";
 import StickyHeader from "./components/StickyHeader/StickyHeader";
-const cards = require("./cards.json");
+import cards from "./cards.json";
 
 class App extends Component {
   state = {
